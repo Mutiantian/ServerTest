@@ -1,3 +1,5 @@
+# i use this project for database autotest
+
 # ServerTest
 
 注：所有命令在终端中运行
